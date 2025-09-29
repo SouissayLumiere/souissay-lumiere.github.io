@@ -1,2 +1,2 @@
 # souissay-lumiere.github.io
-Gallery photos
+Welcome to Souissay_Lumiere Gallery
